@@ -10,6 +10,8 @@ Harry-T: You, as a mathematician, produced this table. You deserve nothing but p
 
 Metaphira: You perfected Harry's code. As you should have given your knowledge. But you repeated Harry's mistakes. Thanks for at least being willing to release this version (V3) publicly with Toasters.
 
-Toaster: Speaking of whom. You have our thanks, but I still have yet to be given a good reason why you pulled the github. Until then, you are nothing but repeating, a third time, the mistakes of potentially evil people.
+Toaster: Speaking of whom. You have our thanks, but I still have yet to be given a good reason why you pulled the github. Until then, you are nothing but repeating, a third time, the mistakes of evil people.
 
-https://github.com/shadowshin0bi/public-pool-parlor/assets/46812722/cb568e5e-2170-44b5-afc1-5686f3c27232ge
+
+Uploading 212565155-12d425ef-1047-41ae-b1e4-618a04a13b69.mp4…
+
