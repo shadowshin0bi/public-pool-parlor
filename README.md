@@ -18,4 +18,6 @@ If you believe I am breaking the law, then come after me. My lawyers and myself 
 
 Enjoy.
 
+Below is how to import the project:
+
 https://github.com/shadowshin0bi/public-pool-parlor/assets/46812722/617543cb-49b0-4e88-9ab9-fcd6f361025b
