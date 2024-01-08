@@ -6,7 +6,7 @@ I am not responsible for what you do with it nor am I responsible for supporting
 
 Unwarranted Credits:
 
-Harry-T: You, as a mathematician, produced this table. You deserve nothing but praise for your genuis. But you did not know the rule-of-law when you decided to DMCA people for something you chose to make public domain.
+Harry-T: You, as a mathematician, produced this table. You deserve nothing but praise for your genius. But you did not know the rule-of-law when you decided to DMCA people for something you chose to make public domain.
 
 Metaphira: You perfected Harry's code. As you should have given your knowledge. But you repeated Harry's mistakes. Thanks for at least being willing to release this version (V3) publicly with Toasters.
 
