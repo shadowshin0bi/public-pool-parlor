@@ -12,7 +12,7 @@ Metaphira: You perfected Harry's code. As you should have given your knowledge. 
 
 Toaster: Speaking of whom. You have our thanks, but I still have yet to be given a good reason why you pulled the github. Until then, you are nothing but repeating, a third time, the mistakes of evil people.
 
-Therefore, this resposity will remain up until the end of time. 
+Therefore, this respository will remain up until it itself ceases to exist.
 
 If you believe I am breaking the law, then come after me. My lawyers and myself will be waiting.
 
